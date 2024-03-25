@@ -10,6 +10,7 @@ black = "*"
 openai = "*"
 langchain-openai = "*"
 python-dotenv = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
